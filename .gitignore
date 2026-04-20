@@ -1,0 +1,30 @@
+# OS 관련
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (TailwindCSS CLI 사용 시)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 빌드 결과물 (CLI 방식일 때 input.css → custom.css는 트래킹)
+# assets/css/custom.css  ← 필요 시 주석 해제
+
+# 환경 변수
+.env
+.env.local
+.env.*.local
+
+# 임시 파일
+*.tmp
+*.bak
+*.log
