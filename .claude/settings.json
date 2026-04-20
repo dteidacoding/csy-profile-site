@@ -1,0 +1,7 @@
+﻿{
+    "plansDirectory": ".claude/plans/",
+    "statusLine": {
+        "type": "command",
+        "command": "/Users/shirt1/workspace/claude-code-mastary/.claude/statusline-command.sh"
+    }
+}
